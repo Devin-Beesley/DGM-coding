@@ -1,0 +1,15 @@
+//classes in class work for dgm 1600 classes are used as a sub directory to organize information into sublets for easier organization of assets
+
+using UnityEngine;
+using System.Collections;
+
+public class classes : MonoBehaviour
+{
+        public class Cats
+            {public int russian sort hair 1;
+            public int calico 2
+            public int black 13
+            public int siamese 1
+            
+            }
+}
