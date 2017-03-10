@@ -1,0 +1,16 @@
+//syntax is used to affect how code preforms in a program or engine it will aslo notify if there is an issue
+/*
+*using UnityEngine;
+*using System.Collections;
+*
+*public class SingleCharacterScript : MonoBehaviour
+*    {
+*            public class Stuff
+*            {
+*                    public int bullets;
+*                    public int grenades;
+*
+*                    ect ect 
+*            }
+    }*/
+    //using a double forward slash will denote single line notes using asterisk and forward slash is used for multi line code see above for example
