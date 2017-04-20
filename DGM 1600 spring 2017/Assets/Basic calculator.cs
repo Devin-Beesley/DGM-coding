@@ -19,12 +19,12 @@ public Text result;
 	void Update () {
 
 	}
-public void Proses(){
+public void Proses() {
 
-	int variable;
-	variable = int.Parse(input1.text) + int.Parse(input2.text);
+	int variableWhile;
+	variableWhile = int.Parse (input1.text) + int.Parse (input2.text);
 
-	result.text = varible.ToString();
+	result.text = varibleWhile.ToString();
 
 	}
 }
