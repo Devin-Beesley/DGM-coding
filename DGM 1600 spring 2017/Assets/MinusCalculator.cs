@@ -3,10 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-
-public class Basiccalculator : MonoBehaviour {
-
-
+public class MinusCalculator : MonoBehaviour {
 public InputField input1;
 public InputField input2;
 public Text result;
@@ -22,7 +19,7 @@ public Text result;
 public void Proses() {
 
 	int variableWhile;
-	variableWhile = int.Parse (input1.text) + int.Parse (input2.text);
+	variableWhile = int.Parse (input1.text) - int.Parse (input2.text);
 
 	result.text = variableWhile.ToString();
 
